@@ -6,7 +6,9 @@ Libraries required : **OpenCV** (cmd to install : "pip install opencv-python")
                      
                      
   ###############Import Libraires############################
+  
 import cv2
+
 import winsound
 
 
